@@ -12,6 +12,8 @@
 /.next/
 /out/
 
+sanityyoutubebuild/node_modules
+
 # production
 /build
 
